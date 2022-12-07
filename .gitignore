@@ -1,6 +1,7 @@
 # JRB
 .DS_Store
 *.vscode
+*.code-workspace
 
 
 # Byte-compiled / optimized / DLL files
